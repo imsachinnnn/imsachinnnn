@@ -6,11 +6,17 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=imsachinnnn&color=8b5cf6&style=flat-square&label=)
-&nbsp;
-[![Follow on X](https://img.shields.io/badge/Follow%20on%20X-8b5cf6?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_sachinnnn)
-&nbsp;
-[![GitHub](https://img.shields.io/github/followers/imsachinnnn?color=8b5cf6&logo=github&style=flat-square&label=)](https://github.com/imsachinnnn)
+<p align="center">
+  <a href="https://github.com/imsachinnnn">
+    <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/im_sachinnnn">
+    <img src="https://img.shields.io/badge/Follow%20on%20X-8b5cf6?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:sachinytr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -95,7 +101,7 @@
 
 [![Email](https://img.shields.io/badge/sachinytr%40gmail.com-%238B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinytr@gmail.com)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/%40im__sachinnnn-%237C3AED?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_sachinnnn)
+[![Twitter](https://img.shields.io/badge/X-7C3AED?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_sachinnnn)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/imsachinnnn-%236D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imsachinnnn)
 
