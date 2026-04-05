@@ -1,65 +1,124 @@
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                  SACHIN A — README.md               -->
+<!-- ████████████████████████████████████████████████████████ -->
+
 <div align="center">
-  <h1>Hi, I'm Sachin. 👋</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Back-end+Focused+Full-Stack+Developer;Founder+of+Zenyth;Building+FlowHalt;Exploring+AI+%26+Blockchain;Crafting+SaaS+Solutions" alt="Typing SVG" /></a>
-</div>
+
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║   ███████╗ █████╗  ██████╗██╗  ██╗██╗███╗  ██╗       ║
+║   ██╔════╝██╔══██╗██╔════╝██║  ██║██║████╗ ██║       ║
+║   ███████╗███████║██║     ███████║██║██╔██╗██║       ║
+║   ╚════██║██╔══██║██║     ██╔══██║██║██║╚████║       ║
+║   ███████║██║  ██║╚██████╗██║  ██║██║██║ ╚███║       ║
+║   ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚══╝       ║
+║                                                       ║
+║         frontend engineer · india · v2.0.26           ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=500&lines=Turning+ideas+into+pixel-perfect+UI;React+%7C+JS+%7C+Python+%7C+Docker+%7C+AWS;Building+in+public.+Breaking+things+privately.;Open+to+opportunities+%F0%9F%9F%A2" alt="Typing SVG" />
 
 <br/>
 
-### 🚀 The TL;DR
-I am a back-end-focused full-stack developer who prefers building scalable architectures and shipping real-world SaaS products over just writing code. Currently ideating and launching projects under my one-person startup, **Zenyth**, while actively seeking high-impact remote opportunities.
+![Profile Views](https://komarev.com/ghpvc/?username=imsachinnnn&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
+[![Twitter Follow](https://img.shields.io/twitter/follow/im_sachinnnn?color=00ff88&logo=twitter&style=flat-square&label=FOLLOW)](https://twitter.com/im_sachinnnn)
+[![GitHub followers](https://img.shields.io/github/followers/imsachinnnn?color=00ff88&logo=github&style=flat-square&label=FOLLOWERS)](https://github.com/imsachinnnn)
 
-* 🛠️ **Currently Building:** **FlowHalt** (a utility application) and a comprehensive department management system.
-* 🧠 **Currently Learning:** Blockchain applications, Business Intelligence & Analytics, and integrating AI into practical dev workflows.
-* 🎯 **Looking For:** Fully remote internship opportunities at fast-moving startups (10-100 employees) where I can take ownership of back-end architecture.
-* 📫 **Reach Me:** [sachinytr@gmail.com](mailto:sachinytr@gmail.com)
-
----
-
-### 💻 Arsenal & Tech Stack
-<div align="center">
-  <p><strong>Languages & Core</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages" />
-  <br><br>
-  <p><strong>Back-End & Databases</strong></p>
-  <img src="https://skillicons.dev/icons?i=django,mysql,postgres,nodejs" alt="Backend" />
-  <br><br>
-  <p><strong>Front-End</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend" />
-  <br><br>
-  <p><strong>DevOps, Cloud & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,nginx,git,github" alt="DevOps" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics Dashboard
+## `$ whoami`
+
+```json
+{
+  "name"              : "Sachin A",
+  "role"              : "Frontend Developer",
+  "location"          : "Chennai, India 🇮🇳",
+  "email"             : "sachinytr@gmail.com",
+  "twitter"           : "@im_sachinnnn",
+  "passionate_about"  : ["React", "Clean UI", "Open Source", "Performance"],
+  "currently_learning": "System Design + Kubernetes",
+  "fun_fact"          : "My commits are 70% at midnight 🌙"
+}
+```
+
+---
+
+## `$ cat stack.txt`
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## `$ git log --stats`
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=imsachinnnn&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=a6a6a6" alt="Sachin's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsachinnnn&theme=transparent&hide_border=true&fire=0e75b6&ring=0e75b6" alt="Sachin's Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imsachinnnn&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&layout=compact" alt="Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=imsachinnnn&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-      </td>
-    </tr>
-  </table>
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=imsachinnnn&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9&icon_color=00ff88&count_private=true" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsachinnnn&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=c9d1d9&langs_count=6" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=imsachinnnn&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff88&fire=f5a623&currStreakLabel=00ff88" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsachinnnn&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff88" />
+
 </div>
 
 ---
 
-### 🤝 Connect With Me
+## `$ ls ./trophies`
+
 <div align="center">
-  <a href="https://twitter.com/im_sachinnnn"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:sachinytr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=imsachinnnn&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://github-profile-trophy.vercel.app/?username=imsachinnnn&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</div>
+
+---
+
+## `$ ping --connect`
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/im_sachinnnn)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinytr@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imsachinnnn)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────┐
+│  thanks for visiting. star something.   │
+│         sachin@dev:~$ _                 │
+└─────────────────────────────────────────┘
+```
+
+*crafted with ♥ · Chennai, India · 2026*
+
 </div>
