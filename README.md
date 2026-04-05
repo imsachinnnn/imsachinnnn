@@ -76,9 +76,7 @@
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=imsachinnnn&show_icons=true&hide_border=true&bg_color=07070f&title_color=8B5CF6&text_color=a78bfa&icon_color=8B5CF6&count_private=true" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsachinnnn&layout=compact&hide_border=true&bg_color=07070f&title_color=8B5CF6&text_color=a78bfa&langs_count=6" />
+
 
 <br/><br/>
 
@@ -95,7 +93,7 @@
 
 ---
 
-## connect
+## CONNECT
 
 <div align="center">
 
