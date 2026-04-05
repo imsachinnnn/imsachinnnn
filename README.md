@@ -76,17 +76,17 @@
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=imsachinnnn&show_icons=true&hide_border=true&bg_color=07070f&title_color=8B5CF6&text_color=7C3AED&icon_color=8B5CF6&count_private=true&hide_title=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=imsachinnnn&show_icons=true&hide_border=true&bg_color=07070f&title_color=8B5CF6&text_color=a78bfa&icon_color=8B5CF6&count_private=true" />
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsachinnnn&layout=compact&hide_border=true&bg_color=07070f&title_color=8B5CF6&text_color=7C3AED&langs_count=6&hide_title=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsachinnnn&layout=compact&hide_border=true&bg_color=07070f&title_color=8B5CF6&text_color=a78bfa&langs_count=6" />
 
-<br/>
+<br/><br/>
 
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=imsachinnnn&hide_border=true&background=07070f&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=6D28D9&dates=4C1D95&currStreakNum=A78BFA&sideNums=8B5CF6" />
+<img width="96%" src="https://streak-stats.demolab.com?user=imsachinnnn&hide_border=true&background=07070f&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=a78bfa&dates=6D28D9&currStreakNum=A78BFA&sideNums=8B5CF6&stroke=8B5CF6" />
 
-<br/>
+<br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsachinnnn&bg_color=07070f&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&hide_border=true&area_color=6D28D9" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsachinnnn&bg_color=07070f&color=a78bfa&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -95,7 +95,9 @@
 ## trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=imsachinnnn&theme=dark_lover&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=imsachinnnn&theme=onestar&no-frame=true&margin-w=8&row=1&column=7)](https://github.com/imsachinnnn)
+
 </div>
 
 ---
@@ -104,9 +106,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/sachinytr@gmail.com-%238B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinytr@gmail.com)
+[![Email](https://img.shields.io/badge/sachinytr%40gmail.com-%238B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinytr@gmail.com)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/@im__sachinnnn-%237C3AED?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_sachinnnn)
+[![Twitter](https://img.shields.io/badge/%40im__sachinnnn-%237C3AED?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/im_sachinnnn)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/imsachinnnn-%236D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imsachinnnn)
 
