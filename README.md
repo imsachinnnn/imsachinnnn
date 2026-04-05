@@ -34,7 +34,7 @@
 
 ## stack
 
-**`// backend · core`**
+**`// Backend · Core`**
 
 ![Python](https://img.shields.io/badge/Python-%238B5CF6?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%237C3AED?style=flat-square&logo=django&logoColor=white)
@@ -42,27 +42,27 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%238B5CF6?style=flat-square&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%237C3AED?style=flat-square&logo=nginx&logoColor=white)
 
-**`// mobile · android`**
+**`// Mobile · Android`**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%238B5CF6?style=flat-square&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%237C3AED?style=flat-square&logo=androidstudio&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_SDK-%236D28D9?style=flat-square&logo=android&logoColor=white)
 
-**`// blockchain · web3`**
+**`// Blockchain · Web3`**
 
 ![Solidity](https://img.shields.io/badge/Solidity-%238B5CF6?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-%237C3AED?style=flat-square&logo=ethereum&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3.py-%236D28D9?style=flat-square&logo=web3dotjs&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-%234C1D95?style=flat-square&logo=ethereum&logoColor=white)
 
-**`// frontend · some knowledge`**
+**`// Frontend · Some knowledge`**
 
 ![React](https://img.shields.io/badge/React-%238B5CF6?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%237C3AED?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%236D28D9?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%234C1D95?style=flat-square&logo=css3&logoColor=white)
 
-**`// devops · infra`**
+**`// Devops · Infra`**
 
 ![Docker](https://img.shields.io/badge/Docker-%238B5CF6?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%237C3AED?style=flat-square&logo=kubernetes&logoColor=white)
@@ -109,6 +109,6 @@
 
 <div align="center">
 
-`sachin a · backend dev · android · blockchain · india · 2026`
+`Sachin  · Backend Developer · Android · Blockchain · India · 2026`
 
 </div>
