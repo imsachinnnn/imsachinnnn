@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=80&duration=1&pause=99999&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=SACHIN+A." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=backend+developer+%C2%B7+android+%C2%B7+blockchain;python+%7C+%7C+solidity+%7C+docker+%7C+aws;ship+fast%2C+break+nothing.;commits+spike+after+midnight+%F0%9F%8C%99" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Backend+Developer+%C2%B7+Android+%C2%B7+Blockchain;Python+%7C+%7C+Solidity+%7C+Docker+%7C+aws;Ship+fast%2C+break+Nothing.;Commits+spike+after+midnight+%F0%9F%8C%99" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 ---
 
-## stack
+## STACK
 
 **`// Backend · Core`**
 
@@ -72,7 +72,7 @@
 
 ---
 
-## github
+## GITHUB
 
 <div align="center">
 
@@ -88,10 +88,6 @@
 
 </div>
 
----
-
-
----
 
 ## CONNECT
 
