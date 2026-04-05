@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=imsachinnnn&color=8b5cf6&style=flat-square&label=)
 &nbsp;
-[![Twitter](https://img.shields.io/twitter/follow/im_sachinnnn?color=8b5cf6&logo=twitter&style=flat-square&label=)](https://twitter.com/im_sachinnnn)
+[![Twitter](https://img.shields.io/x/follow/im_sachinnnn?color=8b5cf6&logo=twitter&style=flat-square&label=)](https://twitter.com/im_sachinnnn)
 &nbsp;
 [![GitHub](https://img.shields.io/github/followers/imsachinnnn?color=8b5cf6&logo=github&style=flat-square&label=)](https://github.com/imsachinnnn)
 
