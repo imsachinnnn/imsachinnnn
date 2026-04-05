@@ -1,23 +1,95 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Sachin A 🚀</h1>
+<h3 align="center">Building real-world solutions • Full Stack Developer • Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsachinnnn&label=Profile%20views&color=0e75b6&style=flat" alt="imsachinnnn" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsachinnnn" alt="imsachinnnn" /></a> </p>
+## ⚡ About Me
 
-<p align="left"> <a href="https://twitter.com/im_sachinnnn" target="blank"><img src="https://img.shields.io/twitter/follow/im_sachinnnn?logo=twitter&style=for-the-badge" alt="im_sachinnnn" /></a> </p>
+- 🎓 B.E. Information Technology @ Annamalai University  
+- 💻 Full Stack Developer (React + Django)  
+- 🚀 Built **FlowHalt** — a system-level Android app solving real data loss issues  
+- 🎯 Goal: Become financially independent through tech  
+- 🧠 Learning daily, building consistently, no shortcuts  
 
-- 📫 How to reach me **sachinytr@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/im_sachinnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_sachinnnn" height="30" width="40" /></a>
+## 🧠 What Makes Me Different
+
+I don’t just learn tech.  
+I build things that solve **real problems**.
+
+> FlowHalt was not a project.  
+> It started with frustration.  
+> Turned into a solution.
+
+While others follow tutorials,  
+I build from **pain → idea → execution**.
+
+---
+
+## 🔥 Tech Stack
+
+### 💻 Core
+- JavaScript, Python  
+- React.js, Django  
+- HTML, CSS  
+
+### ⚙️ Backend & DB
+- MySQL, MongoDB  
+- REST APIs  
+
+### ☁️ DevOps & Tools
+- Docker, AWS (Basics)  
+- Nginx  
+
+---
+
+## 🚀 Featured Project
+
+### ⚡ FlowHalt
+> Smart network control system for Android
+
+- 📡 Detects real-time network drops (5G → 4G)
+- ⚡ Instantly disables mobile data
+- 💸 Prevents unexpected data loss
+- 🔐 Runs at system-level using accessibility + services
+
+👉 Built to solve a **real-world problem I faced**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsachinnnn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsachinnnn&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsachinnnn&show_icons=true&locale=en&layout=compact" alt="imsachinnnn" /></p>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imsachinnnn&show_icons=true&locale=en" alt="imsachinnnn" /></p>
+- 📧 Email: **sachinytr@gmail.com**
+- 🐦 Twitter: https://twitter.com/im_sachinnnn
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsachinnnn&" alt="imsachinnnn" /></p>
+---
+
+## 🧭 Current Focus
+
+- 📚 Mastering Full Stack Development  
+- ⚡ Building impactful projects  
+- 🎯 Landing a strong dev role before graduation  
+
+---
+
+## 🧠 Mindset
+
+> No distractions.  
+> No excuses.  
+> Just execution.
+
+---
+
+<p align="center">
+  ⚡ "Consistency beats motivation." ⚡
+</p>
