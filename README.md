@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=80&duration=1&pause=99999&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=SACHIN+A." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=backend+developer+%C2%B7+android+%C2%B7+blockchain;python+%7C+kotlin+%7C+solidity+%7C+docker+%7C+aws;ship+fast%2C+break+nothing.;commits+spike+after+midnight+%F0%9F%8C%99" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=backend+developer+%C2%B7+android+%C2%B7+blockchain;python+%7C+%7C+solidity+%7C+docker+%7C+aws;ship+fast%2C+break+nothing.;commits+spike+after+midnight+%F0%9F%8C%99" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 {
   "name"        : "Sachin A",
   "role"        : "Backend Developer",
-  "domains"     : ["Backend", "Android", "Blockchain"],
+  "domains"     : ["Backend", "Android", "Blockchain" , "AI"],
   "learning"    : "System Design + DeFi protocols",
   "philosophy"  : "ship fast, break nothing",
   "email"       : "sachinytr@gmail.com",
@@ -92,13 +92,6 @@
 
 ---
 
-## trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imsachinnnn&theme=onestar&no-frame=true&margin-w=8&row=1&column=7)](https://github.com/imsachinnnn)
-
-</div>
 
 ---
 
