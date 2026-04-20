@@ -30,7 +30,7 @@
   "role"        : "Backend Developer",
   "domains"     : ["Backend", "Android", "Blockchain" , "AI"],
   "learning"    : "System Design + DeFi protocols",
-  "philosophy"  : "ship fast, break nothing",
+  "philosophy"  : "ship fast, break nothing..",
   "email"       : "sachinytr@gmail.com",
   "fun_fact"    : "commits spike after midnight 🌙"
 }
