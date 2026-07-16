@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=80&duration=1&pause=99999&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=SACHIN+A." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Backend+Developer+%C2%B7+Android+%C2%B7+AI;Python+%7C+Kotlin+%7C+Docker+%7C+AWS;
-<br/>
-
 <p align="center">
   <a href="https://github.com/imsachinnnn">
     <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
@@ -52,6 +49,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-%238B5CF6?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%237C3AED?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-%236D28D9?style=flat-square&logo=huggingface&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%234C1D95?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%238B5CF6?style=flat-square&logo=tensorflow&logoColor=white)
 
 **`// Frontend · Some knowledge`**
 
@@ -73,11 +72,7 @@
 
 <div align="center">
 
-<br/><br/>
-
-<img width="96%" src="https://streak-stats.demolab.com?user=imsachinnnn&hide_border=true&background=07070f&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=a78bfa&dates=6D28D9&currStreakNum=A78BFA&sideNums=8B5CF6&stroke=8B5CF6" />
-
-<br/><br/>
+<br/>
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsachinnnn&bg_color=07070f&color=a78bfa&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
 
