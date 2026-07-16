@@ -2,8 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=80&duration=1&pause=99999&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=SACHIN+A." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Backend+Developer+%C2%B7+Android+%C2%B7+Blockchain;Python+%7C+%7C+Solidity+%7C+Docker+%7C+aws;Ship+fast%2C+break+Nothing.;Commits+spike+after+midnight+%F0%9F%8C%99" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Backend+Developer+%C2%B7+Android+%C2%B7+AI;Python+%7C+Kotlin+%7C+Docker+%7C+AWS;
 <br/>
 
 <p align="center">
@@ -23,10 +22,10 @@
 
 ```json
 {
-  "name"        : "Sachin A",
-  "role"        : "Backend Developer",
-  "domains"     : ["Backend", "Android",, "AI"],
-  "email"       : "sachinytr@gmail.com",
+  "name"    : "Sachin A",
+  "role"    : "Backend Developer",
+  "domains" : ["Backend", "Android", "AI"],
+  "email"   : "sachinytr@gmail.com"
 }
 ```
 
@@ -40,13 +39,19 @@
 ![Django](https://img.shields.io/badge/Django-%237C3AED?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%236D28D9?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%238B5CF6?style=flat-square&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%237C3AED?style=flat-square&logo=nginx&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%237C3AED?style=flat-square&logo=fastapi&logoColor=white)
 
 **`// Mobile · Android`**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%238B5CF6?style=flat-square&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%237C3AED?style=flat-square&logo=androidstudio&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_SDK-%236D28D9?style=flat-square&logo=android&logoColor=white)
+
+**`// AI · LLMs · Agents`**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-%238B5CF6?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%237C3AED?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-%236D28D9?style=flat-square&logo=huggingface&logoColor=white)
 
 **`// Frontend · Some knowledge`**
 
@@ -68,8 +73,6 @@
 
 <div align="center">
 
-
-
 <br/><br/>
 
 <img width="96%" src="https://streak-stats.demolab.com?user=imsachinnnn&hide_border=true&background=07070f&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=a78bfa&dates=6D28D9&currStreakNum=A78BFA&sideNums=8B5CF6&stroke=8B5CF6" />
@@ -79,7 +82,6 @@
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsachinnnn&bg_color=07070f&color=a78bfa&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
 
 ## CONNECT
 
@@ -95,6 +97,6 @@
 
 <div align="center">
 
-`Sachin  · Backend Developer · Android · Blockchain · India · 2026`
+`Sachin  · Backend Developer · Android · AI · India · 2026`
 
 </div>
