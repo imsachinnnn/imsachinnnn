@@ -1,64 +1,100 @@
-# Sachin A
+<div align="center">
 
-Backend Developer · Android
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=80&duration=1&pause=99999&color=8B5CF6&center=true&vCenter=true&width=600&height=100&lines=SACHIN+A." />
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Backend+Developer+%C2%B7+Android+%C2%B7+Blockchain;Python+%7C+%7C+Solidity+%7C+Docker+%7C+aws;Ship+fast%2C+break+Nothing.;Commits+spike+after+midnight+%F0%9F%8C%99" />
+
+<br/>
+
+<p align="center">
   <a href="https://github.com/imsachinnnn">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:sachinytr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffffff?style=flat-square&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
-## About
-
-I build backend systems and Android apps. Currently deepening my system design fundamentals.
-
-- **Role:** Backend Developer
-- **Domains:** Backend, Android, AI
-- **Learning:** System Design
-- **Philosophy:** ship fast, break nothing
+</div>
 
 ---
 
-## Tech Stack
+**`→ cat sachin.json`**
 
-**Backend**
-`Python` `Django` `PostgreSQL` `MySQL` `Nginx`
-
-**Mobile**
-`Kotlin` `Android Studio` `Android SDK`
-
-**Frontend**
-`React` `JavaScript` `HTML5` `CSS3`
-
-**DevOps**
-`Docker` `Kubernetes` `AWS` `Git` 
+```json
+{
+  "name"        : "Sachin A",
+  "role"        : "Backend Developer",
+  "domains"     : ["Backend", "Android",, "AI"],
+  "email"       : "sachinytr@gmail.com",
+}
+```
 
 ---
 
-## Featured Projects
+## STACK
 
-<!--
-  ### [Project Name](https://github.com/imsachinnnn/project-repo)
-  Short description of what it does and the stack used.
--->
+**`// Backend · Core`**
 
-> Pin your best repos here — a short description, the stack, and a link to each.
+![Python](https://img.shields.io/badge/Python-%238B5CF6?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%237C3AED?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%236D28D9?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%238B5CF6?style=flat-square&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%237C3AED?style=flat-square&logo=nginx&logoColor=white)
+
+**`// Mobile · Android`**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%238B5CF6?style=flat-square&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%237C3AED?style=flat-square&logo=androidstudio&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-%236D28D9?style=flat-square&logo=android&logoColor=white)
+
+**`// Frontend · Some knowledge`**
+
+![React](https://img.shields.io/badge/React-%238B5CF6?style=flat-square&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%237C3AED?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%236D28D9?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%234C1D95?style=flat-square&logo=css3&logoColor=white)
+
+**`// Devops · Infra`**
+
+![Docker](https://img.shields.io/badge/Docker-%238B5CF6?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%237C3AED?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%236D28D9?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%238B5CF6?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## GitHub Stats
+## GITHUB
 
-<img width="96%" src="https://streak-stats.demolab.com?user=imsachinnnn&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=666666&currStreakNum=000000&sideNums=000000&stroke=cccccc" />
+<div align="center">
 
+
+
+<br/><br/>
+
+<img width="96%" src="https://streak-stats.demolab.com?user=imsachinnnn&hide_border=true&background=07070f&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=a78bfa&dates=6D28D9&currStreakNum=A78BFA&sideNums=8B5CF6&stroke=8B5CF6" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsachinnnn&bg_color=07070f&color=a78bfa&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+
+## CONNECT
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/sachinytr%40gmail.com-%238B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinytr@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/imsachinnnn-%236D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imsachinnnn)
+
+</div>
 
 ---
 
-## Contact
+<div align="center">
 
-- Email: sachinytr@gmail.com
-- GitHub: [imsachinnnn](https://github.com/imsachinnnn)
+`Sachin  · Backend Developer · Android · Blockchain · India · 2026`
+
+</div>
