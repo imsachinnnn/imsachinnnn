@@ -70,11 +70,13 @@
 
 ## GITHUB
 
+## GITHUB
+
 <div align="center">
 
 <br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsachinnnn&bg_color=07070f&color=a78bfa&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=imsachinnnn&theme=dark&background=07070F&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=A78BFA&dates=8B5CF6&stroke=2D2D44&hide_border=true" />
 
 </div>
 
