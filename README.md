@@ -74,6 +74,12 @@
 
 <div align="center">
 
+<img width="96%" src="https://ghchart.rshah.org/8B5CF6/imsachinnnn" alt="Contribution graph" />
+
+</div>
+
+<div align="center">
+
 <br/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=imsachinnnn&theme=dark&background=07070F&ring=8B5CF6&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=A78BFA&dates=8B5CF6&stroke=2D2D44&hide_border=true" />
